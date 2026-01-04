@@ -67,14 +67,11 @@ Status is updated (Open → Verified → Resolved)
 User tracks the issue status in real time
 
 🖼️ Screenshots
-
-![ScreenShot1](src/assets/screenshots/ScreenShot1.jpeg)
-![ScreenShot2](src/assets/screenshots/ScreenShot2.jpeg)
-![ScreenShot3](src/assets/screenshots/ScreenShot3.jpeg)
-![ScreenShot4](src/assets/screenshots/ScreenShot4.jpeg)
-![ScreenShot5](src/assets/screenshots/ScreenShot5.jpeg)
+![ScreenShot5](https://github.com/user-attachments/assets/8905044e-c8d2-4337-b46c-c14b168f4165)
+![ScreenShot4](https://github.com/user-attachments/assets/279d9064-b02b-44dd-902c-ffad26592edb)
+![ScreenShot3](https://github.com/user-attachments/assets/e622b8eb-3e2f-4ac7-9221-f767d68ca437)
+![ScreenShot2](https://github.com/user-attachments/assets/187f04d5-7257-47bf-b77c-45f113252f4c)
+![ScreenShot1](https://github.com/user-attachments/assets/ffd6235d-a42d-4126-b242-1ecdae1c7fd2)
 
 🎥 Application Workflow Demo
-
-Click the image below to watch the demo video:
-[▶️ Click here to watch the demo video](src/assets/demo/App_Demo.mp4)
+https://github.com/user-attachments/assets/f7d7fa50-5cc2-4035-a88a-28b46aadb279
