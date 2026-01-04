@@ -1,79 +1,80 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+🌍 GeoTech – Geo-Tagged Waste Reporting App
 
-# Getting Started
+GeoTech is a React Native mobile application that enables citizens to report illegal waste dumping using geo-tagged images and real-time location data, helping authorities take faster and more effective action for cleaner cities.
 
-> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+📌 Problem Statement
 
-## Step 1: Start the Metro Server
+Illegal waste dumping is difficult to monitor due to manual complaint systems and lack of accurate location data.
+This leads to delayed responses, poor accountability, and environmental pollution.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+💡 Solution Overview
 
-To start Metro, run the following command from the _root_ of your React Native project:
+GeoTech provides a digital civic platform where users can instantly report waste issues with photos and GPS location, while authorities can verify, track, and resolve issues through a centralized system.
 
-```bash
-# using npm
-npm start
+✨ Key Features
 
-# OR using Yarn
-yarn start
-```
+Google Sign-In using Firebase Authentication
 
-## Step 2: Start your Application
+Geo-tagged waste issue reporting
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+Image upload for visual evidence
 
-### For Android
+Automatic GPS location capture
 
-```bash
-# using npm
-npm run android
+Real-time issue submission
 
-# OR using Yarn
-yarn android
-```
+Admin verification and status updates
 
-### For iOS
+Transparent issue tracking for users
 
-```bash
-# using npm
-npm run ios
+Secure cloud-based data storage
 
-# OR using Yarn
-yarn ios
-```
+🔧 Technology Stack
+📱 Frontend
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+React Native
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+⚙️ Backend
 
-## Step 3: Modifying your App
+Spring Boot (REST APIs)
 
-Now that you have successfully run the app, let's modify it.
+☁️ Google & Cloud Services
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+Firebase Authentication
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+Firebase Firestore / Realtime Database
 
-## Congratulations! :tada:
+Firebase Cloud Storage
 
-You've successfully run and modified your React Native App. :partying_face:
+Google Maps API
 
-### Now what?
+Google Location Services
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+🔄 Application Workflow
 
-# Troubleshooting
+User logs in using Google Sign-In
 
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+User captures an image of the waste
 
-# Learn More
+App automatically captures GPS location
 
-To learn more about React Native, take a look at the following resources:
+Issue is submitted to the backend
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+Admin verifies the issue
+
+Status is updated (Open → Verified → Resolved)
+
+User tracks the issue status in real time
+
+🖼️ Screenshots
+
+![ScreenShot1](assets/screenshots/ScreenShot1.jpeg)
+![ScreenShot2](assets/screenshots/ScreenShot2.jpeg)
+![ScreenShot3](assets/screenshots/ScreenShot3.jpeg)
+![ScreenShot4](assets/screenshots/ScreenShot4.jpeg)
+![ScreenShot5](assets/screenshots/ScreenShot5.jpeg)
+
+🎥 Application Workflow Demo
+
+Click the image below to watch the demo video:
+[▶️ Click here to watch the demo video](assets/demo/geotech-demo.mp4)
