@@ -68,13 +68,13 @@ User tracks the issue status in real time
 
 🖼️ Screenshots
 
-![ScreenShot1](assets/screenshots/ScreenShot1.jpeg)
-![ScreenShot2](assets/screenshots/ScreenShot2.jpeg)
-![ScreenShot3](assets/screenshots/ScreenShot3.jpeg)
-![ScreenShot4](assets/screenshots/ScreenShot4.jpeg)
-![ScreenShot5](assets/screenshots/ScreenShot5.jpeg)
+![ScreenShot1](src/assets/screenshots/ScreenShot1.jpeg)
+![ScreenShot2](src/assets/screenshots/ScreenShot2.jpeg)
+![ScreenShot3](src/assets/screenshots/ScreenShot3.jpeg)
+![ScreenShot4](src/assets/screenshots/ScreenShot4.jpeg)
+![ScreenShot5](src/assets/screenshots/ScreenShot5.jpeg)
 
 🎥 Application Workflow Demo
 
 Click the image below to watch the demo video:
-[▶️ Click here to watch the demo video](assets/demo/geotech-demo.mp4)
+[▶️ Click here to watch the demo video](src/assets/demo/App_Demo.mp4)
