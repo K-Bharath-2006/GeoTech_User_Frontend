@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471011266346",
+    "project_id": "geotech-1a29e",
+    "storage_bucket": "geotech-1a29e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471011266346:android:0bf1bf51aea1aec685d853",
+        "android_client_info": {
+          "package_name": "com.geotech.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAmShujNFxsFEPrPW6ITxTIlem6a-kqP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
